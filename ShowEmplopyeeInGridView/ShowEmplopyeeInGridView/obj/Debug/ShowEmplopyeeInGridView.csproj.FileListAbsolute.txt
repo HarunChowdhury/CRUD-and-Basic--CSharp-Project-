@@ -1,0 +1,12 @@
+I:\Jobs Preparatons\Source\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\bin\Debug\ShowEmplopyeeInGridView.exe.config
+I:\Jobs Preparatons\Source\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\bin\Debug\ShowEmplopyeeInGridView.exe
+I:\Jobs Preparatons\Source\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\bin\Debug\ShowEmplopyeeInGridView.pdb
+I:\Jobs Preparatons\Source\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\obj\Debug\ShowEmplopyeeInGridView.csprojResolveAssemblyReference.cache
+I:\Jobs Preparatons\Source\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\obj\Debug\ShowEmplopyeeInGridView.Properties.Resources.resources
+I:\Jobs Preparatons\Source\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\obj\Debug\ShowEmplopyeeInGridView.ShowEmployee.resources
+I:\Jobs Preparatons\Source\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\obj\Debug\ShowEmplopyeeInGridView.csproj.GenerateResource.Cache
+I:\Jobs Preparatons\Source\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\obj\Debug\ShowEmplopyeeInGridView.exe
+I:\Jobs Preparatons\Source\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\obj\Debug\ShowEmplopyeeInGridView.pdb
+D:\For Up\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\bin\Debug\ShowEmplopyeeInGridView.exe.config
+D:\For Up\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\obj\Debug\ShowEmplopyeeInGridView.exe
+D:\For Up\ShowEmplopyeeInGridView\ShowEmplopyeeInGridView\obj\Debug\ShowEmplopyeeInGridView.pdb

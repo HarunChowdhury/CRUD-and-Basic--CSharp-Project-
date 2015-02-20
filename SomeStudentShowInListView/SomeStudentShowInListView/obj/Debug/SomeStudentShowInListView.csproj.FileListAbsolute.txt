@@ -1,0 +1,27 @@
+I:\Jobs Preparatons\Source\SomeStudentShowInListView\SomeStudentShowInListView\bin\Debug\SomeStudentShowInListView.exe.config
+I:\Jobs Preparatons\Source\SomeStudentShowInListView\SomeStudentShowInListView\bin\Debug\SomeStudentShowInListView.exe
+I:\Jobs Preparatons\Source\SomeStudentShowInListView\SomeStudentShowInListView\bin\Debug\SomeStudentShowInListView.pdb
+I:\Jobs Preparatons\Source\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.csprojResolveAssemblyReference.cache
+I:\Jobs Preparatons\Source\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.StudentForm.resources
+I:\Jobs Preparatons\Source\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.Properties.Resources.resources
+I:\Jobs Preparatons\Source\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.csproj.GenerateResource.Cache
+I:\Jobs Preparatons\Source\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.exe
+I:\Jobs Preparatons\Source\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.pdb
+C:\Users\cse\Desktop\RF\SomeStudentShowInListView\SomeStudentShowInListView\bin\Debug\SomeStudentShowInListView.exe.config
+C:\Users\cse\Desktop\RF\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.exe
+C:\Users\cse\Desktop\RF\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.pdb
+C:\Users\cse\Desktop\RF\SomeStudentShowInListView\SomeStudentShowInListView\bin\Debug\SomeStudentShowInListView.exe
+C:\Users\cse\Desktop\RF\SomeStudentShowInListView\SomeStudentShowInListView\bin\Debug\SomeStudentShowInListView.pdb
+C:\Users\cse\Desktop\RF\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.csprojResolveAssemblyReference.cache
+C:\Users\cse\Desktop\RF\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.StudentForm.resources
+C:\Users\cse\Desktop\RF\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.Properties.Resources.resources
+C:\Users\cse\Desktop\RF\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.csproj.GenerateResource.Cache
+D:\For Up\SomeStudentShowInListView\SomeStudentShowInListView\bin\Debug\SomeStudentShowInListView.exe.config
+D:\For Up\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.exe
+D:\For Up\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.pdb
+D:\For Up\SomeStudentShowInListView\SomeStudentShowInListView\bin\Debug\SomeStudentShowInListView.exe
+D:\For Up\SomeStudentShowInListView\SomeStudentShowInListView\bin\Debug\SomeStudentShowInListView.pdb
+D:\For Up\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.csprojResolveAssemblyReference.cache
+D:\For Up\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.StudentForm.resources
+D:\For Up\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.Properties.Resources.resources
+D:\For Up\SomeStudentShowInListView\SomeStudentShowInListView\obj\Debug\SomeStudentShowInListView.csproj.GenerateResource.Cache

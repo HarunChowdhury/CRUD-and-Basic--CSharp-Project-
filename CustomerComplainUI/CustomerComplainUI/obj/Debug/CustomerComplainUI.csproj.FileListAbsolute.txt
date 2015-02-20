@@ -1,0 +1,17 @@
+G:\BASIS OOP C# ASP.Net ,2014\23-Sep-2014\practice\CustomerComplainUI\CustomerComplainUI\bin\Debug\CustomerComplainUI.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\23-Sep-2014\practice\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.CustomerComplainUI.resources
+G:\BASIS OOP C# ASP.Net ,2014\23-Sep-2014\practice\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.Properties.Resources.resources
+G:\BASIS OOP C# ASP.Net ,2014\23-Sep-2014\practice\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.csproj.GenerateResource.Cache
+G:\BASIS OOP C# ASP.Net ,2014\23-Sep-2014\practice\CustomerComplainUI\CustomerComplainUI\bin\Debug\CustomerComplainUI.exe
+G:\BASIS OOP C# ASP.Net ,2014\23-Sep-2014\practice\CustomerComplainUI\CustomerComplainUI\bin\Debug\CustomerComplainUI.pdb
+G:\BASIS OOP C# ASP.Net ,2014\23-Sep-2014\practice\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.exe
+G:\BASIS OOP C# ASP.Net ,2014\23-Sep-2014\practice\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.pdb
+C:\Users\cse\Desktop\CustomerComplainUI\CustomerComplainUI\bin\Debug\CustomerComplainUI.exe.config
+C:\Users\cse\Desktop\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.exe
+C:\Users\cse\Desktop\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.pdb
+C:\Users\cse\Desktop\CustomerComplainUI\CustomerComplainUI\bin\Debug\CustomerComplainUI.exe
+C:\Users\cse\Desktop\CustomerComplainUI\CustomerComplainUI\bin\Debug\CustomerComplainUI.pdb
+C:\Users\cse\Desktop\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.csprojResolveAssemblyReference.cache
+C:\Users\cse\Desktop\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.CustomerComplainUI.resources
+C:\Users\cse\Desktop\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.Properties.Resources.resources
+C:\Users\cse\Desktop\CustomerComplainUI\CustomerComplainUI\obj\Debug\CustomerComplainUI.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\PC21\Desktop\HW C#\ReadWriteFileUI\ReadWriteFileUI\bin\Debug\ReadWriteFileUI.exe.config
+C:\Users\PC21\Desktop\HW C#\ReadWriteFileUI\ReadWriteFileUI\bin\Debug\ReadWriteFileUI.exe
+C:\Users\PC21\Desktop\HW C#\ReadWriteFileUI\ReadWriteFileUI\bin\Debug\ReadWriteFileUI.pdb
+C:\Users\PC21\Desktop\HW C#\ReadWriteFileUI\ReadWriteFileUI\obj\Debug\ReadWriteFileUI.Form1.resources
+C:\Users\PC21\Desktop\HW C#\ReadWriteFileUI\ReadWriteFileUI\obj\Debug\ReadWriteFileUI.Properties.Resources.resources
+C:\Users\PC21\Desktop\HW C#\ReadWriteFileUI\ReadWriteFileUI\obj\Debug\ReadWriteFileUI.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\HW C#\ReadWriteFileUI\ReadWriteFileUI\obj\Debug\ReadWriteFileUI.exe
+C:\Users\PC21\Desktop\HW C#\ReadWriteFileUI\ReadWriteFileUI\obj\Debug\ReadWriteFileUI.pdb
+C:\Users\cse\Desktop\For Up\ReadWriteFileUI\ReadWriteFileUI\bin\Debug\ReadWriteFileUI.exe.config
+C:\Users\cse\Desktop\For Up\ReadWriteFileUI\ReadWriteFileUI\obj\Debug\ReadWriteFileUI.exe
+C:\Users\cse\Desktop\For Up\ReadWriteFileUI\ReadWriteFileUI\obj\Debug\ReadWriteFileUI.pdb
